@@ -1,4 +1,4 @@
-Created as part of a software training programme, provided by Code First Girls in partnership with Service Now, and hosted by Falmouth Universities Launchpad. 
+Created as part of a software training programme, provided by Code First Girls in partnership with Service Now, and hosted by Falmouth University's Launchpad. 
 
 https://codefirstgirls.org.uk/
 https://www.servicenow.co.uk/
