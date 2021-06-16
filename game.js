@@ -43,6 +43,6 @@ function raceToSlide() {
 
 // Don't race to the slide
 function doNotRaceToSlide() {
-  alert(`You still eating away being best panda, undisturbed by the events that unfolded behind you. Not a care in the world, or interest in looking over.`);
+  alert(`You still eating away, being best panda, undisturbed by the events that unfolded behind you. Not a care in the world, or interest in looking over.`);
 }
     
