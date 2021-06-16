@@ -33,7 +33,7 @@ function raceToSlide() {
     var playDirty = prompt (`The slide has now become your whole world, but it looks as though it has for them too. Your mission is to be best Panda. Do you play dirty? "Yes" or "No"`).toUpperCase();
       //play dirty
       if (playDirty == `YES`){
-      alert(`You make a dive for your nearest brother, and one by one, like panda dominos limbs begin flailing and wobbly butts propel through the air. You all crash into a mound of fur. Your chaotic meddling cost you your sliding dreams. But as hastily as the infatuation came about, so too was its abandon. You begin to chew on a random ear as your leg is being tugged on, then someone sits on your face. The fury mound erupts into a wrestling match, ‘cos you’re all Pandas`);
+      alert(`You make a dive for your nearest brother, and one by one, like panda dominos, limbs begin flailing and wobbly butts propel through the air. You all crash into a mound of fur. Your chaotic meddling cost you your sliding dreams. But as hastily as the infatuation came about, so too was its abandon. You begin to chew on a random ear as your leg is being tugged on, then someone sits on your face. The fury mound erupts into a wrestling match, ‘cos you’re all Pandas`);
       }
       //don't play dirty
       else if (playDirty == `NO`){
